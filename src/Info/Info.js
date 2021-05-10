@@ -1,5 +1,5 @@
 import React from 'react';
-import self from '../img/self.png';
+import self from '../img/selfie.png';
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -20,7 +20,7 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
+    firstName: "Santosh",
     lastName: "Smith",
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
     position: "Full Stack Developer",
