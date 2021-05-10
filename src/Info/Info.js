@@ -23,14 +23,14 @@ export const info = {
     firstName: "Santosh",
     lastName: "Smith",
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "Full Stack Developer",
+    position: "Junior Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self portrait in the "img" folder something else!
     gradient: `linear-gradient(135deg, ${colors})`, // don't change this either
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
-        ["☕️", "Fueled by coffee"], // change the emojis to something related to your list item :)
+        ["☕️", "Fueled by Matcha"], // change the emojis to something related to your list item :)
         ["🇺🇸", "Based in the US"],
-        ["💼", "Systems Engineer at Google"],
-        ["✉️", "johnsmith@gmail.com"],
+        ["💼", "Seeking Employment"],
+        ["✉️", "santoshmalaki@gmail.com"],
     ],
     socials: [
         ["https://facebook.com/", facebookIcon()], // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
