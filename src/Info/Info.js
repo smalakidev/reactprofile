@@ -45,23 +45,23 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Project 1",
-            liveLink: "paytonjewell.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            sourceLink: "paytonjewell.dev", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
+            liveLink: "https://smalakidev.github.io/Work-Day-Scheduler-/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            sourceLink: "https://github.com/smalakidev/Work-Day-Scheduler-", // this should be a link to the **repository** of the project, where the code is hosted. Github, Phabricator, etc.
         },
         {
             title: "Project 2",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            liveLink: "https://smalakidev.github.io/Tell-me-the-weather/",
+            sourceLink: "https://github.com/smalakidev/Tell-me-the-weather",
         },
         {
             title: "Project 3",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            liveLink: "https://asheth22.github.io/Astrozoders/",
+            sourceLink: "https://github.com/asheth22/Astrozoders",
         },
         {
             title: "Project 4",
-            liveLink: "https://paytonjewell.dev",
-            sourceLink: "https://paytonjewell.dev",
+            liveLink: "https://intense-shelf-48021.herokuapp.com/",
+            sourceLink: "https://github.com/smalakidev/wantmyburger",
         },
     ]
 }
