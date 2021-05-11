@@ -1,9 +1,9 @@
 import React from 'react';
 import Style from './Portfolio.module.scss';
-import mock1 from '../img/mock1.png';
-import mock2 from '../img/mock2.png';
-import mock3 from '../img/mock3.png';
-import mock4 from '../img/mock4.png';
+import mock1 from '../img/pic1.png';
+import mock2 from '../img/pic2.png';
+import mock3 from '../img/pic3.png';
+import mock4 from '../img/pic4.png';
 import {info, colors} from '../Info/Info';
 
 
