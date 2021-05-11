@@ -49,7 +49,10 @@ There currently is no testing
 
 
 
+Link to Project
 
+
+https://smalakidev.github.io/reactprofile/#/
 
 
 
