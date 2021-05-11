@@ -41,8 +41,6 @@ There currently is no testing
 - [GitHub](https://github.com/smalakidev)
 - Email me at: santoshmalaki@gmail.com
 
-## Image
-<img width="1792" alt="Screen Shot 2021-05-08 at 2 07 25 PM" src="https://user-images.githubusercontent.com/61706566/117549174-d97be580-b006-11eb-91b6-9a791dc59eb6.png">
 
 
 
